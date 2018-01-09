@@ -1,3 +1,2 @@
-  mounted () {
-    this.getPosts('home');
-  },
+config.js
+.idea
